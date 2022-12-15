@@ -1,4 +1,5 @@
-h1{
-color: red;
-font-size: 20px;
+.main__title {
+    color: #0000ff;
+    font-size: 40px;
+    text-align: center;
 }
